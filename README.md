@@ -1,4 +1,4 @@
-#README
+# README
 
 * Contributors: jnz93
 * Tags: plugin wordpress, b3, ibovespa, api restfull
